@@ -1,0 +1,7 @@
+# Local editor settings and generated files
+.idea/
+*.iml
+.vscode/
+/out/
+/target/
+*.class
